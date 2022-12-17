@@ -1,7 +1,7 @@
 
 
 
-## Welcome to StanH
+## Editor
 
 You can use the [editor on GitHub](https://github.com/Stan-Holmes/stan-holmes.github.io/edit/main/readme.md) to maintain and preview the content for your website in Markdown files.
 
