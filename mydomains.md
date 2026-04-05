@@ -1,4 +1,4 @@
 ## my domains
 Learn more at about my domain names
 
-[stanholmes](https://www.stanholmes.com/)
+[StanHolmes.com](https://www.stanholmes.com/)
