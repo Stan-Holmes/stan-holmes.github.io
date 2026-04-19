@@ -4,9 +4,10 @@ title: Blog
 permalink: /blog/
 ---
 
-# Blog
+## Blog
 
-Thoughts, updates, and ideas from Stan Holmes.
+### Thoughts, updates, and ideas from Stan Holmes.
+<p></p>
 
 {% for post in site.posts %}
 <div style="margin-bottom: 40px; padding-bottom: 30px; border-bottom: 1px solid #eee;">

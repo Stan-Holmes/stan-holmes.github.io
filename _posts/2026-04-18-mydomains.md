@@ -1,3 +1,10 @@
+---
+layout: post
+title: "My Domains"
+date: 2025-09-19 10:00:00 -0600
+excerpt: "A short one-sentence summary that shows on the blog index page."
+---
+
 ## my domains
 Learn more at about my domain names
 
@@ -8,11 +15,6 @@ Learn more at about my domain names
 [stanh.com](https://www.stanh.com/)
 
 [techforce365.com](https://www.techforce365.com/)
-
-
-
-
-
 
 
 
