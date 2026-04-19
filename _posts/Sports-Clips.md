@@ -1,3 +1,0 @@
-Sports Clips Layton
-
-@SportsClipsLayton
