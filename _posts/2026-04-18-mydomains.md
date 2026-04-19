@@ -2,7 +2,6 @@
 title: My Domains
 date: 2026-04-18 10:00:00 -0600
 excerpt: "A short one-sentence summary that shows on the blog index page."
-layout: default
 categories: General
 published: false
 tags: 
