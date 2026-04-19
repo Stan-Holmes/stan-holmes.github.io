@@ -1,9 +1,6 @@
 ---
 title: My Domains
 excerpt: "A short one-sentence summary that shows on the blog index page."
-categories: General
-published: false
-tags: 
 ---
 
 ## my domains
