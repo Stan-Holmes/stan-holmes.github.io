@@ -1,6 +1,13 @@
 theme: jekyll-theme-architect
+
 title: "stanh.com"
 description: Bookmark this to keep an eye on my updates!
 name: Stan Holmes
+
 url: "https://stanh.com"
 baseurl: ""
+
+# Optional but recommended
+show_downloads: false
+github_username: stan-holmes   # your actual GitHub username (lowercase)
+
