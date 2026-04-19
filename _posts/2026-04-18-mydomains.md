@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Domains
-date: 2025-09-19 10:00:00 -0600
+date: 2026-04-18 10:00:00 -0600
 excerpt: "A short one-sentence summary that shows on the blog index page."
 categories: General
 published: false
