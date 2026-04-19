@@ -11,3 +11,4 @@ baseurl: ""
 show_downloads: false
 github_username: stan-holmes   # your actual GitHub username (lowercase)
 
+permalink: /:title/
