@@ -1,8 +1,6 @@
 
 
-
 ## Welcome to StanH 
-
 
 
 {% for post in site.posts limit:3 %}
