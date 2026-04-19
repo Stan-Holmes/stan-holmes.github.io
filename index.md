@@ -4,11 +4,11 @@
 ## Welcome to StanH 
 
 
-### Latest Blog Posts
 
-Check out my latest thoughts and updates:
+{% for post in site.posts limit:3 %}
+- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %d, %Y" }}
+{% endfor %}
 
-- [Blog](/blog)  ← This link will work automatically once you have posts
+[View all posts →](/blog)
 
-Or browse all posts: [View all posts](/blog)
 
