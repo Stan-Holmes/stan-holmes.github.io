@@ -7,7 +7,6 @@ excerpt: "A short one-sentence summary that shows on the blog index page."
 Learn more at about my domain names:
 [VendorPerks.com](https://www.VendorPerks.com/)<br>
 
-
 B<br>
 [BizBookme.com](https://www.bizbookme.com/)<br><br>
 D<br>
@@ -23,13 +22,14 @@ F<br>
 [francispeak.com](https://www.francispeak.com/)<br><br>
 G<br>
 [getappdeals.com](https://www.getappdeals.com/)<br>
-[getVenderPerks.com](https://www.getVenderPerks.com/)<br><br>
+[getVenderPerks.com](https://www.getvenderperks.com/)<br><br>
 H<br>
-[HostLive.com](https://www.HostLive.com/)<br>
-[JillHolmes.com](https://www.JillHolmes.com/)<br><br>
+[HostLive.org](https://www.hostlive.org/)<br><br>
+J<br>
+[JillHolmes.com](https://www.jillholmes.com/)<br><br>
 K<br>
-[Keepthegood.org](https://www.JillHolmes.com/)<br>
-[KyleBrianHolmes](https://www.KyleBrianHolmes.com/)<br><br>
+[Keepthegood.org](https://www.keepthegood.org/)<br>
+[KyleBrianHolmes](https://www.kylebrianholmes.com/)<br><br>
 M<br>
 [maryannholmes.com](https://www.maryannholmes.com/)<br>
 [masonholmes.com](https://www.masonholmes.com/)<br>
@@ -49,7 +49,7 @@ T<br>
 [techforce365.com](https://www.techforce365.com/)<br><br>
 V<br>
 [VenderPerks.com Redirect](https://www.venderperks.com/) redirect spelling to VendorPerks.com with an the letter O <br>
-[VendorPerks.com](https://www.VendorPerks.com/)<br><br>
+[VendorPerks.com](https://www.vendorperks.com/)<br><br>
 W<br>
 [WebCodeHelp.com](https://www.webcodehelp.com/)<br><br>
 
