@@ -12,8 +12,8 @@ B<br>
 [BizBookme.com](https://www.bizbookme.com/)<br><br>
 D<br>
 [dealsnearbyme.com](https://www.dealsnearbyme.com/)<br>
-[DreamNailsClub.com](https://www.dreamnailclub.com/)<br>
-[DreamsNails.net](https://www.dreamsnails.net/)<br><br>
+[DreamNailsClub.com](https://www.dreamsnailclub.com/)<br>
+[DreamsNails.net](https://www.dreamsnails.net/) redirecting to DreamNailsClub.com<br><br>
 C<br>
 [Come-Follow.com](https://www.come-follow.com/)<br>
 [ComeFollow.net](https://www.comefollow.net/)<br>
@@ -48,7 +48,7 @@ S<br>
 T<br>
 [techforce365.com](https://www.techforce365.com/)<br><br>
 V<br>
-[VenderPerks.com Redirect](https://www.venderperks.com/)<br>
+[VenderPerks.com Redirect](https://www.venderperks.com/) redirect spelling to VendorPerks.com with an the letter O <br>
 [VendorPerks.com](https://www.VendorPerks.com/)<br><br>
 W<br>
 [WebCodeHelp.com](https://www.webcodehelp.com/)<br><br>
