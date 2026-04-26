@@ -1,11 +1,11 @@
 ---
 title: My Domains
-excerpt: "A short one-sentence summary that shows on the blog index page."
+excerpt: "A page with links to my domain names."
 ---
 
 ## my domains
 Learn more at about my domain names:
-[VendorPerks.com](https://www.VendorPerks.com/)<br>
+[VendorPerks.com](https://www.vendorperks.com/)<br>
 
 B<br>
 [BizBookme.com](https://www.bizbookme.com/)<br><br>
