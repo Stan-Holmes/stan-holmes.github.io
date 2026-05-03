@@ -11,7 +11,7 @@ B<br>
 [BizBookme.com](https://www.bizbookme.com/)<br><br>
 D<br>
 [dealsnearbyme.com](https://www.dealsnearbyme.com/)<br>
-[DreamNailsClub.com](https://www.dreamsnailclub.com/)<br>
+[DreamNailsClub.com](https://www.dreamnailsclub.com/)<br>
 [DreamsNails.net](https://www.dreamsnails.net/) redirecting to DreamNailsClub.com<br><br>
 C<br>
 [Come-Follow.com](https://www.come-follow.com/)<br>
