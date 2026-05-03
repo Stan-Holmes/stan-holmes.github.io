@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Blog
-permalink: /blog/
+title: Updates
+permalink: /updates/
 ---
 
-## Blog - Thoughts, updates, and ideas from Stan Holmes.
+## Thoughts, updates, and ideas from Stan Holmes.
 <p></p>
 
 {% for post in site.posts %}
@@ -21,5 +21,5 @@ permalink: /blog/
 {% endfor %}
 
 {% if site.posts.size == 0 %}
-<p>No posts yet. Come back soon!</p>
+<p>No updates yet. Come back soon!</p>
 {% endif %}

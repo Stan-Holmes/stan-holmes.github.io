@@ -5,4 +5,4 @@
 - [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
 
-[View all posts →](/blog)
+[View all updates →](/updates)
