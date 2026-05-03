@@ -22,7 +22,7 @@ F<br>
 [francispeak.com](https://www.francispeak.com/)<br><br>
 G<br>
 [getappdeals.com](https://www.getappdeals.com/)<br>
-[getVenderPerks.com](https://www.getvenderperks.com/)<br><br>
+[getVendorPerks.com](https://www.getvendorperks.com/)<br><br>
 H<br>
 [HostLive.org](https://www.hostlive.org/)<br><br>
 J<br>
