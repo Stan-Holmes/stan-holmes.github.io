@@ -4,8 +4,7 @@ excerpt: "A page with links to my domain names."
 ---
 
 ## my domains
-Learn more at about my domain names:
-[VendorPerks.com](https://www.vendorperks.com/)<br>
+Learn more at about my domain names:<br>
 
 B<br>
 [BizBookme.com](https://www.bizbookme.com/)<br><br>
