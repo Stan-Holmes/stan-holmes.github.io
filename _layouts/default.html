@@ -36,8 +36,12 @@
         box-sizing: border-box;
       }
 
+      /* Center content and limit width */
       .inner {
-        max-width: 100%;
+        max-width: 1000px;
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
       }
       /* ===== END CORE FIXES ===== */
 
@@ -86,7 +90,7 @@
         box-shadow: 0 2px 8px rgba(33, 45, 66, 0.05);
         padding: 30px;
         max-width: 100%;
-        overflow-wrap: break-word; /* mobile text fix */
+        overflow-wrap: break-word;
       }
 
       .updates-intro {
@@ -172,13 +176,13 @@
 
       /* ===== MOBILE POLISH ===== */
       @media (max-width: 600px) {
-        #main-content {
-          padding: 20px;
-        }
-
-        header .inner {
+        .inner {
           padding-left: 15px;
           padding-right: 15px;
+        }
+
+        #main-content {
+          padding: 20px;
         }
 
         .site-nav {
