@@ -8,6 +8,147 @@
     <title>{{ page.title | default: site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "{{ site.name | escape }}",
+        "url": "{{ site.url }}{{ site.baseurl }}",
+        "sameAs": [
+          "{{ site.facebook_url }}",
+          "{{ site.x_url }}",
+          "https://github.com/{{ site.github_username }}"
+        ]
+      }
+    </script>
+    <style>
+      body {
+        background: #f7f8fa;
+      }
+
+      header {
+        box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.2);
+      }
+
+      header .inner {
+        padding-bottom: 28px;
+      }
+
+      .site-nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 18px;
+      }
+
+      .site-nav a {
+        background: rgba(255, 255, 255, 0.14);
+        border: 1px solid rgba(255, 255, 255, 0.24);
+        border-radius: 6px;
+        color: #fff;
+        font-weight: 700;
+        padding: 7px 12px;
+        text-decoration: none;
+      }
+
+      .site-nav a:hover {
+        background: rgba(255, 255, 255, 0.24);
+      }
+
+      #content-wrapper {
+        background: transparent;
+        border-top: 0;
+      }
+
+      #main-content {
+        background: #fff;
+        border: 1px solid #e6e8ec;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(33, 45, 66, 0.05);
+        padding: 30px;
+      }
+
+      .updates-intro {
+        color: #4f5d6b;
+        font-size: 18px;
+        margin-top: 0;
+      }
+
+      .post-list {
+        display: grid;
+        gap: 18px;
+        margin-top: 24px;
+      }
+
+      .post-card {
+        border: 1px solid #e5e8ee;
+        border-radius: 8px;
+        padding: 22px;
+      }
+
+      .post-card h2 {
+        margin-top: 0;
+      }
+
+      .post-card h2 a {
+        text-decoration: none;
+      }
+
+      .post-date {
+        color: #66717f;
+        font-size: 14px;
+        font-weight: 700;
+        margin: 4px 0 12px;
+      }
+
+      .read-more {
+        font-weight: 700;
+        margin-bottom: 0;
+      }
+
+      .site-footer {
+        background: #202a36;
+        border-top: 1px solid #141a22;
+        color: #555;
+        font-size: 14px;
+        line-height: 1.6;
+        margin-top: 36px;
+        padding: 30px 0;
+      }
+
+      .site-footer h2 {
+        color: #fff;
+        font-size: 18px;
+        margin-top: 0;
+      }
+
+      .site-footer nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px 18px;
+        margin: 12px 0;
+      }
+
+      .site-footer a {
+        color: #b9d7ff;
+      }
+
+      .site-footer p {
+        color: #d6dbe3;
+        margin: 8px 0 0;
+      }
+
+      #main-content h1:before,
+      #main-content h2:before,
+      #main-content h3:before,
+      #main-content h4:before,
+      #main-content h5:before,
+      #main-content h6:before {
+        content: none;
+        padding-right: 0;
+        margin-left: 0;
+      }
+    </style>
   </head>
   <body>
     <header>
@@ -16,6 +157,11 @@
           <h1>{{ site.title }}</h1>
         </a>
         <h2>{{ site.description }}</h2>
+        <nav class="site-nav" aria-label="Main">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/updates/' | relative_url }}">Updates</a>
+          <a href="{{ '/about/' | relative_url }}">About</a>
+        </nav>
       </div>
     </header>
 
@@ -26,5 +172,22 @@
         </section>
       </div>
     </div>
+
+    <footer class="site-footer">
+      <div class="inner">
+        <h2>{{ site.name }}</h2>
+        <nav aria-label="Footer">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/updates/' | relative_url }}">Updates</a>
+          <a href="{{ '/about/' | relative_url }}">About</a>
+          <a href="{{ '/my-domains/' | relative_url }}">My Domains</a>
+          <a href="{{ site.facebook_url }}" rel="me noopener" target="_blank">Facebook</a>
+          <a href="{{ site.x_url }}" rel="me noopener" target="_blank">X</a>
+          <a href="https://github.com/{{ site.github_username }}" rel="me noopener" target="_blank">GitHub</a>
+        </nav>
+        <p>{{ site.title }} - thoughts, updates, links, and projects from {{ site.name }}.</p>
+        <p>&copy; {{ 'now' | date: '%Y' }} {{ site.name }}.</p>
+      </div>
+    </footer>
   </body>
 </html>
