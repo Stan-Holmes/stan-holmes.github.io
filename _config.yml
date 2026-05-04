@@ -12,3 +12,10 @@ show_downloads: false
 github_username: stan-holmes   # your actual GitHub username (lowercase)
 
 permalink: /:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: default
