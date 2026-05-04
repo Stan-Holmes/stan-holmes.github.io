@@ -13,3 +13,4 @@ This site shares updates, links, projects, and notes from Stan Holmes.
 - [Facebook](https://www.facebook.com/stanholmes)
 - [X](https://x.com/stanholmes)
 - [GitHub](https://github.com/stan-holmes)
+- [My Domains](https://stanh.com/my-domains)
