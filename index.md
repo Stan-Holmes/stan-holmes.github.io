@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: StanH
 ---
 
 ## Welcome to StanH 
