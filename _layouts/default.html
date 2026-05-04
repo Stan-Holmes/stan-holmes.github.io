@@ -23,7 +23,7 @@
     </script>
 
     <style>
-      /* ===== FIXES FOR SCROLLBAR ===== */
+      /* ===== CORE FIXES ===== */
       html, body {
         margin: 0;
         padding: 0;
@@ -39,7 +39,7 @@
       .inner {
         max-width: 100%;
       }
-      /* ===== END FIXES ===== */
+      /* ===== END CORE FIXES ===== */
 
       body {
         background: #f7f8fa;
@@ -86,6 +86,7 @@
         box-shadow: 0 2px 8px rgba(33, 45, 66, 0.05);
         padding: 30px;
         max-width: 100%;
+        overflow-wrap: break-word; /* mobile text fix */
       }
 
       .updates-intro {
@@ -168,6 +169,28 @@
         padding-right: 0;
         margin-left: 0;
       }
+
+      /* ===== MOBILE POLISH ===== */
+      @media (max-width: 600px) {
+        #main-content {
+          padding: 20px;
+        }
+
+        header .inner {
+          padding-left: 15px;
+          padding-right: 15px;
+        }
+
+        .site-nav {
+          gap: 8px;
+        }
+
+        .site-nav a {
+          padding: 6px 10px;
+          font-size: 14px;
+        }
+      }
+      /* ===== END MOBILE POLISH ===== */
     </style>
   </head>
 
