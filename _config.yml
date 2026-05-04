@@ -10,6 +10,8 @@ baseurl: ""
 # Optional but recommended
 show_downloads: false
 github_username: stan-holmes   # your actual GitHub username (lowercase)
+facebook_url: "https://www.facebook.com/stanholmes"
+x_url: "https://x.com/stanholmes"
 
 permalink: /:title/
 
