@@ -131,11 +131,12 @@
         margin-bottom: 0;
       }
 
+      /* ===== FOOTER FIX ===== */
       .site-footer {
         background: #202a36;
         border-top: 1px solid #141a22;
         color: #555;
-        font-size: 14px;
+        font-size: 14px; /* lock base size */
         line-height: 1.6;
         margin-top: 36px;
         padding: 30px 0;
@@ -159,9 +160,11 @@
       }
 
       .site-footer p {
+        font-size: inherit; /* prevents post styles from leaking */
         color: #d6dbe3;
         margin: 8px 0 0;
       }
+      /* ===== END FOOTER FIX ===== */
 
       #main-content h1:before,
       #main-content h2:before,
