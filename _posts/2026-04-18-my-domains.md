@@ -4,10 +4,13 @@ excerpt: "A page with links to my domain names."
 ---
 
 ## my domains
-Learn more at about my domain names:<br>
+Learn more at about my domains:<br>
 
 2<br>
 [26fridays.com](https://www.26fridays.com/)<br><br>
+
+7<br>
+[7dayplay.com](https://www.7dayplay.com/)<br><br>
 
 B<br>
 [BizBookme.com](https://www.bizbookme.com/)<br><br>
